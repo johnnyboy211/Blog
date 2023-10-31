@@ -1,0 +1,51 @@
+#contact iframe {
+  width: 100%;
+}
+
+.travel_mainDiv {
+  border: 1px solid lightgray;
+}
+
+.travel_mainDiv img {
+  width: 100%;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+  margin: 20px;
+}
+
+center#contact h5 {
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+}
+
+.heading{
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 15px;
+  margin: 10px;
+  margin-top: 20px;
+  display: inline-block;
+  width: 100%;
+}
+
+#star_rating1, #star_rating2{
+  color: orange;
+}
+
+#movie_img1, #movie_img2{
+  border-radius: 20px;
+}
+
+#text1, #text2{
+  background: rgba(179, 204, 203, 0.5);
+  padding:20px;
+  border-radius: 20px;
+}
+
+#pfp{
+  border-radius: 200px;
+  margin-bottom: 20px;
+}
